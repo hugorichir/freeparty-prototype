@@ -1,4 +1,4 @@
-# FREE//WEEKEND — Prototype PlayCanvas
+# ACID//RAVE — Prototype PlayCanvas
 
 Jeu de stratégie par événements (V0.1), jouable avec souris ou tactile sur ordinateur et smartphone.
 
